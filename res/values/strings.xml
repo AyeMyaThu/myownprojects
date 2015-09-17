@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">imagedatabase</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_movie">AddMovie</string>
+    <string-array name="fsEntry">
+        <item >small</item>
+        <item >medium</item>
+        <item >Large</item>
+    </string-array>
+    <string-array name="fsEntryvalue">
+        <item >20</item>
+        <item >30</item>
+        <item >40</item>
+    </string-array>
+
+</resources>

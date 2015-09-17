@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res"><file name="ic_launcher" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="activity_main" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="add" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/layout/add.xml" qualifiers="" type="layout"/><file name="row" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/layout/row.xml" qualifiers="" type="layout"/><file name="add_movie" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/menu/add_movie.xml" qualifiers="" type="menu"/><file name="context" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/menu/context.xml" qualifiers="" type="menu"/><file name="main" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/values/bools.xml" qualifiers=""><bool name="is">false</bool></file><file path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/values/integers.xml" qualifiers=""><integer name="max">5</integer></file><file path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/values/strings.xml" qualifiers=""><string name="action_settings">Settings</string><string name="app_name">imagedatabase</string><string-array name="fsEntry">
+        <item>small</item>
+        <item>medium</item>
+        <item>Large</item>
+    </string-array><string name="title_activity_add_movie">AddMovie</string><string name="hello_world">Hello world!</string><string-array name="fsEntryvalue">
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+    </string-array></file><file path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="setting" path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/xml/setting.xml" qualifiers="" type="xml"/></source><source path="/Users/ebihara/Desktop/Projects/imagedatabase/app/build/generated/res/rs/debug"/><source path="/Users/ebihara/Desktop/Projects/imagedatabase/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug"><source path="/Users/ebihara/Desktop/Projects/imagedatabase/app/src/debug/res"/></dataSet><mergedItems/></merger>

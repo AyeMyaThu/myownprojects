@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Display" >
+        <CheckBoxPreference
+            android:key="images"
+            android:summaryOff="Images is off"
+            android:summaryOn="Images is on"
+            android:title="Image show" />
+
+        <ListPreference
+            android:defaultValue="20"
+            android:entries="@array/fsEntry"
+            android:entryValues="@array/fsEntryvalue"
+            android:key="fontsize"
+            android:summary="Change font size"
+            android:title="Font size " />
+    </PreferenceCategory>
+
+</PreferenceScreen><!-- From: file:/Users/ebihara/Desktop/Projects/imagedatabase/app/src/main/res/xml/setting.xml -->
